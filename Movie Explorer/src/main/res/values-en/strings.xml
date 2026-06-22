@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Explorer</string>
+    <string name="label_release">Release Date: </string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_rating">Rating</string>
+    <string name="hint_search">Search movies...</string>
+    <string name="desc_unavailable">Synopsis not available.</string>
+    <string name="toast_already_favorite">Movie is already in Favorites</string>
+    <string name="toast_added_favorite">Movie successfully added to Favorites</string>
+    <string name="menu_favorite">Favorite Movies</string>
+</resources>

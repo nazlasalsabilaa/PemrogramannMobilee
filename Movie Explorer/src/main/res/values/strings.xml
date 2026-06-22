@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Explorer</string>
+    <string name="label_release">Tanggal Rilis: </string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_rating">Rating</string>
+    <string name="hint_search">Cari film...</string>
+    <string name="desc_unavailable">Sinopsis tidak tersedia.</string>
+    <string name="toast_already_favorite">Film sudah ada di Favorite</string>
+    <string name="toast_added_favorite">Film Berhasil ditambahkan ke Favorite</string>
+    <string name="menu_favorite">Film Favorite</string>
+</resources>
